@@ -7,7 +7,6 @@ def process_data(input_file, output_file):
         lines = f.readlines()
 
     processed_lines = []
-
     for line in lines:
         # 1. 提取trigger, replacement, options字段
         trigger_match = re.search(r'trigger: "(.*?)"', line)
