@@ -1462,6 +1462,10 @@
       "∁|"
     ],
     [
+      "cir|",
+      "∘|"
+    ],
+    [
       "msu|",
       "∑_{|=}^{}"
     ],
@@ -1920,11 +1924,23 @@
     [
       "hua|",
       "\\\\\\\\ ⇔&|"
+    ],
+    [
+      "jin|",
+      "#|"
+    ],
+    [
+      "#2|",
+      "## |"
+    ],
+    [
+      "#3|",
+      "### |"
     ]
   ],
   "userSelRuleSettingsOpen": false,
   "userDelRuleSettingsOpen": false,
-  "userCvtRuleSettingsOpen": false,
+  "userCvtRuleSettingsOpen": true,
   "StrictModeEnter": false,
   "StrictLineMode": "enter_twice",
   "EnhanceModA": false,
